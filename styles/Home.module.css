@@ -1,3 +1,6 @@
 .playgroundcontainer {
+  display: flex;
+  flex-direction: column;
   height: 750px;
+  overflow-y: scroll;
 }
